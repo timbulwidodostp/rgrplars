@@ -1,6 +1,8 @@
 # rgrplars
 Robust groupwise least angle regression Use rgrplars (robustHD) With (in) R Software
 
+https://www.youtube.com/watch?v=b0ujc-LJrMA
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
